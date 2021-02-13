@@ -47,11 +47,11 @@ Actually, I am an art student, programming is something I really enjoy doing and
 
 <br>
 
-[E-mail](lucia81@protonmail.com)
+[E-mail](mailto:lucia81@protonmail.com)
 
-[Linkedin](lucia81@protonmail.com)
+[Linkedin](https://www.linkedin.com/in/l%C3%BAcia-guelber-837a50185/)
 
-[Instagram](http://www.instagram.com/lucilua81)
+[Instagram](https://www.instagram.com/luci_lua81/)
 
 
 
