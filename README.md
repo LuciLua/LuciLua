@@ -1,8 +1,4 @@
-___
-
-<br>
-
-<font size="6px"><b><center> Hi, I'm Luci </center></b> </font>
+Hi, I'm Luci
 
 <br>
 
@@ -15,22 +11,45 @@ ___
 
 ___
 
-<br><br><br>
-<center>
-<img width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<br><br>
+
+## That's what i do?
+
+<br><br>
+
+>  Web development 
+
+>  UI / UX Design 
+
+> 3D Art 
+
+> 2D Art
+
+
+<br>
+
+!JavaScript
+
+<img width="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+
+
+!! CSS
+
+
+<img width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+
+! CSS
+
 <img width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-</imgs>
-</center>
-<br>
 
+<br>
 ___
-<br>
-
-<b> <font size="6px">Contact</b>
-
 
 <br>
 
+## <b>Contact</b>
+
+<br>
 
 
-[dfew](ww.google.com)
+[Instagram](http://www.google.com)
