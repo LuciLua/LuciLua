@@ -15,9 +15,9 @@ Actually, I am an art student, programming is something I really enjoy doing and
 
 <br>
 
-## That's what i do?
+## That's what i do? :hearts:
 
-<br><br>
+<br>
 
 >  Web development 
 
@@ -30,7 +30,7 @@ Actually, I am an art student, programming is something I really enjoy doing and
 <br>
 
 
-## What do I usually use?
+## What do I usually use? :octocat:
 
 <br>
 
@@ -42,23 +42,32 @@ Actually, I am an art student, programming is something I really enjoy doing and
 <code><img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
 
 <br>
+<br>
 
-## <b>Statistics</b>
+## <b>Statistics :bar_chart: </b>
+
+
+
+
+<br>
+
 
 <table>
   <tr>
-    <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciLua&layout=compact&bg_color=f0f0f0f0&title_color=f00000&text_color=000000" /></td>
-    <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=LuciLua&bg_color=f0f0f0f0&title_color=f00000&text_color=000000&icon_color=f5f5f5f5&show_icons=true&include_all_commits=true" /></td>
+    <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciLua&layout=compact&bg_color=DEG,f0f0f0f0,e8e8e8&title_color=f00000&text_color=000000&hide_border=true&locale=en&hide_title=true" /></td>
+    <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=LuciLua&bg_color=f0f0f0f0&title_color=f00000&text_color=000000&icon_color=f5f5f5f5&show_icons=true&include_all_commits=true&hide_title=true" /></td>
   </tr>  
 </table>
+
+<br>
 
  ```jsony
  
  ```
 
-<br>
 
-## <b>Contact me</b>
+
+## <b>Contact me :mailbox_with_mail:</b>
 
 <br>
 
