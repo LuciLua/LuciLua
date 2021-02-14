@@ -1,6 +1,8 @@
 # Hi, I'm   <a href="https://www.linkedin.com/in/l%C3%BAcia-guelber-837a50185/">Luci</a>
 <br>
 
+ ```json
+ ```
 
 ## About me
 
@@ -40,6 +42,19 @@ Actually, I am an art student, programming is something I really enjoy doing and
 <code><img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
 
 <br>
+
+## <b>Statistics</b>
+
+<table>
+  <tr>
+    <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciLua&layout=compact&bg_color=f0f0f0f0&title_color=f00000&text_color=000000" /></td>
+    <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=LuciLua&bg_color=f0f0f0f0&title_color=f00000&text_color=000000&icon_color=f5f5f5f5&show_icons=true&include_all_commits=true" /></td>
+  </tr>  
+</table>
+
+ ```jsony
+ 
+ ```
 
 <br>
 
