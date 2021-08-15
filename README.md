@@ -15,7 +15,7 @@ Actually, I am an art student, programming is something I really enjoy doing and
 
 
 [![GitHub LuciLua](https://img.shields.io/github/followers/LuciLua?label=follow&style=social)](https://github.com/LuciLua)ﾠ
-[![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCIbJuoAAdTP9rClO7mK-aVg?color=00cc00)](https://github.com/LuciLua)ﾠ
+[![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCIbJuoAAdTP9rClO7mK-aVg?color=00cc00)](https://www.youtube.com/channel/UCIbJuoAAdTP9rClO7mK-aVg)ﾠ
 [![Twitter L4Dev](https://img.shields.io/twitter/follow/L4dev)](https://twitter.com/L4dev)ﾠ
 [![Views](https://komarev.com/ghpvc/?username=LuciLua&label=Profile+views&color=lightgrey&style=flat)](https://github.com/LuciLua)
 
