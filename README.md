@@ -61,8 +61,12 @@ Actually, I am an art student, programming is something I really enjoy doing and
 
 <table>
   <tr>
-  <img width="340px" height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciLua&layout=compact&bg_color=DEG,f0f0f0f0,e8e8e8&text_color=2d2d2d&hide_border=false&locale=en&hide_title=true"/>
-    <img width="405px" height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=LuciLua&bg_color=f0f0f0f0&title_color=f00000&text_color=000000&&hide_border=false&icon_color=ff2222&show_icons=true&include_all_commits=true&hide_title=true" />
+    <td>
+      <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciLua&layout=compact&bg_color=DEG,f0f0f0f0,e8e8e8&text_color=2d2d2d&hide_border=false&locale=en&hide_title=true"/>
+    </td>
+    <td>
+      <img width="340px" src="https://github-readme-stats.vercel.app/api?username=LuciLua&bg_color=f0f0f0f0&title_color=f00000&text_color=000000&&hide_border=false&icon_color=ff2222&show_icons=true&include_all_commits=true&hide_title=true" />
+    </td>
   </tr>  
 </table>
 
