@@ -1,10 +1,8 @@
 # **Hi, I'm <a href="https://www.linkedin.com/in/l%C3%BAcia-guelber-837a50185/">Luci</a>**
-</br>
 <img align='right' src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" width="230">
 </br>
 
-
-## **About me** 👋
+### **About me** 👋
 <p align="left">
 Actually, I am an art student, programming is something I really enjoy doing and I spend good hours of my day doing it. After all, maybe I'll be a code artist someday.
 </p>
