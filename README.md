@@ -1,24 +1,22 @@
 # **Hi, I'm <a href="https://www.linkedin.com/in/l%C3%BAcia-guelber-837a50185/">Luci</a>**
 </br>
 <img align='right' src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" width="230">
+</br>
 
-<br/>
-<br/>
 
 ## **About me** 👋
 <p align="left">
 Actually, I am an art student, programming is something I really enjoy doing and I spend good hours of my day doing it. After all, maybe I'll be a code artist someday.
-
 </p>
-<br/>
-<br/>
-<br/>
+</br>
 
 [![GitHub LuciLua](https://img.shields.io/github/followers/LuciLua?label=follow&style=social)](https://github.com/LuciLua) [![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCIbJuoAAdTP9rClO7mK-aVg?color=00cc00)](https://www.youtube.com/channel/UCIbJuoAAdTP9rClO7mK-aVg) [![Twitter L4Dev](https://img.shields.io/twitter/follow/L4dev)](https://twitter.com/L4dev) [![Views](https://komarev.com/ghpvc/?username=LuciLua&label=Profile+views&color=lightgrey&style=flat)](https://github.com/LuciLua)
 
-<hr/>
+</br>
 
-<br>
+```json
+```
+</br>
 
 ### <b>That's what I do?</b> :hearts:
 ##
@@ -64,7 +62,6 @@ Actually, I am an art student, programming is something I really enjoy doing and
 ### <b>Statistics :bar_chart: </b>
 ##
 <br>
-<p align="left">
 <table>
   <tr>
     <td>
@@ -75,10 +72,28 @@ Actually, I am an art student, programming is something I really enjoy doing and
     </td>
   </tr>  
 </table>
+</br>
+
+<p align="center">
+
+### **Status :cactus:**
+
+</br>
 </p>
-<br>
+
+<p align="center">
 
 
+```json
+{
+  "name": "Luci",
+  "age": 20,
+  "country": "Brazil",
+  "status": "programming"
+}
+```
+
+</p>
 
 
 ### <b>Contact me :mailbox_with_mail:</b>
@@ -95,23 +110,5 @@ Actually, I am an art student, programming is something I really enjoy doing and
 </br>
 
 
-<p align="center">
-### <b>Status :cactus:</b>
-## 
-</br>
-</p>
-
-<p align="center">
-
-```json
-{
-  "name": "Luci",
-  "age": 20,
-  "country": "Brazil",
-  "status": "programming"
-}
-```
-
-</p>
 
 </br>
