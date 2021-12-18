@@ -60,7 +60,7 @@ Actually, I am an art student, programming is something I really enjoy doing and
 ### <b>Statistics :bar_chart: </b>
 ##
 <br>
-<table>
+<table align="center">
   <tr>
     <td>
       <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciLua&layout=compact&bg_color=DEG,f0f0f0f0,e8e8e8&text_color=2d2d2d&hide_border=false&locale=en&hide_title=true"/>
