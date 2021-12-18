@@ -49,6 +49,7 @@ Actually, I am an art student, programming is something I really enjoy doing and
 <code><img href="https://expressjs.com" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/></code>ﾠﾠ
 <code><img href="https://www.blender.org/" height="40px" src="https://download.blender.org/branding/community/blender_community_badge_white.svg"/></code>ﾠﾠﾠ
 <code><img href="https://www.electronjs.org" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"/></code>ﾠﾠ
+</br>
 <code><img href="https://www.figma.com/" height="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/></code>ﾠﾠ
 <code><img href="https://reactjs.org/" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/></code>ﾠﾠ
 <code><img href="https://sass-lang.com" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/></code>ﾠﾠ
