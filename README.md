@@ -84,10 +84,21 @@ Actually, I am an art student, programming is something I really enjoy doing and
 
 ```json
 {
-  "name": "Luci",
-  "age": 20,
   "country": "Brazil",
-  "status": "programming"
+  "status": "programming",
+  "job": "not yet",
+  "experiences": [
+    {
+      "name": "dedication"
+    },
+    {
+      "name": "daily training"
+    },
+    {
+      "name": "little personal projects"
+    },
+    
+  ]
 }
 ```
 
