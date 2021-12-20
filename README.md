@@ -8,7 +8,8 @@ Actually, I am an art student, programming is something I really enjoy doing and
 </p>
 </br>
 
-[![GitHub LuciLua](https://img.shields.io/github/followers/LuciLua?label=follow&style=social)](https://github.com/LuciLua) [![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCIbJuoAAdTP9rClO7mK-aVg?color=00cc00)](https://www.youtube.com/channel/UCIbJuoAAdTP9rClO7mK-aVg) [![Twitter L4Dev](https://img.shields.io/twitter/follow/L4dev)](https://twitter.com/L4dev) [![Views](https://komarev.com/ghpvc/?username=LuciLua&label=Profile+views&color=lightgrey&style=flat)](https://github.com/LuciLua)
+[![GitHub LuciLua](https://img.shields.io/github/followers/LuciLua?label=follow&style=social)](https://github.com/LuciLua) [![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCIbJuoAAdTP9rClO7mK-aVg?color=00cc00)](https://www.youtube.com/channel/UCIbJuoAAdTP9rClO7mK-aVg) [![Twitter L4Dev](https://img.shields.io/twitter/follow/L4dev)](https://twitter.com/L4dev) [![Views](https://komarev.com/ghpvc/?username=LuciLua&label=Profile+views&color=lightgrey&style=flat)](https://github.com/LuciLua) [![Website](https://img.shields.io/badge/website-LuciLua-%23e2e2e2?logo=redHat)](https://luci-lua.tk/)
+
 
 </br>
 
@@ -49,7 +50,6 @@ Actually, I am an art student, programming is something I really enjoy doing and
 <code><img href="https://expressjs.com" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/></code>ﾠﾠ
 <code><img href="https://www.blender.org/" height="40px" src="https://download.blender.org/branding/community/blender_community_badge_white.svg"/></code>ﾠﾠﾠ
 <code><img href="https://www.electronjs.org" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"/></code>ﾠﾠ
-</br>
 <code><img href="https://www.figma.com/" height="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/></code>ﾠﾠ
 <code><img href="https://reactjs.org/" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/></code>ﾠﾠ
 <code><img href="https://sass-lang.com" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/></code>ﾠﾠ
