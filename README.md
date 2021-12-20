@@ -1,5 +1,5 @@
 # **Hi, I'm <a href="https://www.linkedin.com/in/l%C3%BAcia-guelber-837a50185/">Luci</a>**
-<img align='right' src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" width="230">
+<img align='right' src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" width="220">
 </br>
 
 ### **About me** 👋
@@ -8,7 +8,7 @@ Actually, I am an art student, programming is something I really enjoy doing and
 </p>
 </br>
 
-[![GitHub LuciLua](https://img.shields.io/github/followers/LuciLua?label=follow&style=social)](https://github.com/LuciLua) [![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCIbJuoAAdTP9rClO7mK-aVg?color=00cc00)](https://www.youtube.com/channel/UCIbJuoAAdTP9rClO7mK-aVg) [![Twitter L4Dev](https://img.shields.io/twitter/follow/L4dev)](https://twitter.com/L4dev) [![Views](https://komarev.com/ghpvc/?username=LuciLua&label=Profile+views&color=lightgrey&style=flat)](https://github.com/LuciLua) [![Website](https://img.shields.io/badge/website-LuciLua-%23e2e2e2?logo=redHat)](https://luci-lua.tk/)
+[![GitHub LuciLua](https://img.shields.io/github/followers/LuciLua?label=follow&style=social)](https://github.com/LuciLua) [![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCIbJuoAAdTP9rClO7mK-aVg?color=00cc00)](https://www.youtube.com/channel/UCIbJuoAAdTP9rClO7mK-aVg) [![Twitter L4Dev](https://img.shields.io/twitter/follow/L4dev)](https://twitter.com/L4dev) [![Views](https://komarev.com/ghpvc/?username=LuciLua&label=Profile+views&color=lightgrey&style=flat)](https://github.com/LuciLua) [![Website](https://img.shields.io/badge/Portfolio-%23555?logo=googleChrome&logoColor=ddd)](https://luci-lua.tk/)
 
 
 </br>
@@ -73,52 +73,13 @@ Actually, I am an art student, programming is something I really enjoy doing and
 </table>
 </br>
 
-<p align="center">
-
-### **Status :cactus:**
-
-</br>
-</p>
-
-<p align="center">
-
-
-```json
-{
-  "country": "Brazil",
-  "status": "programming",
-  "job": "not yet",
-  "experiences": [
-    {
-      "name": "dedication"
-    },
-    {
-      "name": "daily training"
-    },
-    {
-      "name": "little personal projects"
-    },
-    
-  ]
-}
-```
-
-</p>
-
 
 ### <b>Contact me :mailbox_with_mail:</b>
 ## 
-<br>
+</br>
 
 <img src="gmail.png" width="21px">ﾠﾠ [E-mail](mailto:luci.lua81@gmail.com)
 
 <img src="ln.png" width="18px">ﾠﾠ [Linkedin](https://www.linkedin.com/in/l%C3%BAcia-guelber-837a50185/)
 
 <img src="insta.png" width="20px"> ﾠﾠ[Instagram](https://www.instagram.com/luci_lua81/)
-
-</hr>
-</br>
-
-
-
-</br>
