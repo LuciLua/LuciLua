@@ -77,7 +77,6 @@ Actually, I am an art student, programming is something I really enjoy doing and
 
 <code><img href="https://expressjs.com" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/></code>ﾠﾠ
 </td>
-
   </tr> 
   <tr>
   <td>
