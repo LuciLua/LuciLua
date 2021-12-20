@@ -54,11 +54,12 @@ Actually, I am an art student, programming is something I really enjoy doing and
     <td>
     <code><img  height="40px" src="https://camo.githubusercontent.com/30223dd4dad432d13a8b95ce5cb7ea20825858f8ebce349e6945f931ced4e1bf/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f6a6176617363726970742e706e67"/></code>ﾠﾠ
     </td>
-  </tr> 
-  <tr>
   <td>
   <code><img  height="40px" src="https://camo.githubusercontent.com/0fdac9571fe0749b0982007f44a8c09992014ea1d3736a960fc0f5b24391619f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f747970657363726970742e706e67"/></code>ﾠﾠ
   </td>
+
+  </tr> 
+  <tr>
   <td>
   <code><img  height="40px" src="https://camo.githubusercontent.com/fea5acac7226ad7d4cb97b7ddc9bca876c546e4c969d4125b76098e401cc4203/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f707974686f6e2e706e67"/></code>ﾠﾠ
   </td>
@@ -68,22 +69,43 @@ Actually, I am an art student, programming is something I really enjoy doing and
   <td>
   <code><img  height="40px" src="https://camo.githubusercontent.com/87fa402da6f8a5b81d55c7bcf51e6038898ad37cd162aa3927b44f98c68914b7/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f77696e646f77732d31302e706e67"/></code>ﾠﾠ
   </td>
+
+<td>
+<code><img href="https://babeljs.io/" height="40px" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"/></code>ﾠﾠ
+</td>
+<td>
+
+<code><img href="https://expressjs.com" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/></code>ﾠﾠ
+</td>
+
   </tr> 
+  <tr>
+  <td>
+<code><img href="https://www.blender.org/" height="40px" src="https://download.blender.org/branding/community/blender_community_badge_white.svg"/></code>ﾠ  
+  </td>
+  <td>
+<code><img href="https://www.electronjs.org" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"/></code>
+  </td>
+  <td>
+<code><img href="https://www.figma.com/" height="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/></code>ﾠﾠ
+  </td>
+  <td>
+
+<code><img href="https://reactjs.org/" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/></code>ﾠ
+  </td>
+  <td>
+<code><img href="https://sass-lang.com" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/></code>ﾠﾠ
+  </td>
+  </tr>
+
+  <!-- <tr>
+  <td>
+  <code><img href="https://webpack.js.org" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"/></code>ﾠ
+  </td>
+  </tr> -->
 </table>
 
-
-
 ﾠ
-
-<code><img href="https://babeljs.io/" height="40px" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"/></code>ﾠﾠ
-<code><img href="https://expressjs.com" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/></code>ﾠﾠ
-<code><img href="https://www.blender.org/" height="40px" src="https://download.blender.org/branding/community/blender_community_badge_white.svg"/></code>ﾠﾠﾠ
-<code><img href="https://www.electronjs.org" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"/></code>ﾠﾠ
-<code><img href="https://www.figma.com/" height="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/></code>ﾠﾠ
-<code><img href="https://reactjs.org/" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/></code>ﾠﾠ
-<code><img href="https://sass-lang.com" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/></code>ﾠﾠ
-<code><img href="https://www.typescriptlang.org/" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/></code>ﾠﾠ
-<code><img href="https://webpack.js.org" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"/></code>ﾠﾠ
 </p>
 <br>
 
