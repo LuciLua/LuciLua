@@ -6,8 +6,9 @@
 ### **About me** 👋
 
 <p align="left">
-Actually, I am an cinema student, programming is something I really enjoy doing and I spend good hours of my day doing it. After all, maybe I'll be a code artist someday.
+ I am an cinema student, programming is something I really enjoy doing and I spend good hours of my day doing it.
 </p>
+
 </br>
 
 [![GitHub LuciLua](https://img.shields.io/github/followers/LuciLua?label=follow&style=social)](https://github.com/LuciLua) [![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCIbJuoAAdTP9rClO7mK-aVg?color=00cc00)](https://www.youtube.com/channel/UCIbJuoAAdTP9rClO7mK-aVg) [![Twitter L4Dev](https://img.shields.io/twitter/follow/L4dev)](https://twitter.com/L4dev) [![Views](https://komarev.com/ghpvc/?username=LuciLua&label=Profile+views&color=lightgrey&style=flat)](https://github.com/LuciLua) [![Website](https://img.shields.io/badge/Portfolio-%23555?logo=googleChrome&logoColor=ddd)](https://luci-lua.tk/)
@@ -15,9 +16,7 @@ Actually, I am an cinema student, programming is something I really enjoy doing 
 </br>
 
 ```bash
-
 ```
-
 </br>
 
 ### <b>That's what I do?</b> :hearts:
