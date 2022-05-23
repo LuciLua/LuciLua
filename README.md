@@ -4,7 +4,7 @@
 
 ### **About me** 👋
 <p align="left">
-Actually, I am an art student, programming is something I really enjoy doing and I spend good hours of my day doing it. After all, maybe I'll be a code artist someday.
+Actually, I am an cinema student, programming is something I really enjoy doing and I spend good hours of my day doing it. After all, maybe I'll be a code artist someday.
 </p>
 </br>
 
