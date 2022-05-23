@@ -1,7 +1,6 @@
 # **Hi, I'm <a href="https://www.linkedin.com/in/l%C3%BAcia-guelber-837a50185/">Luci</a>**
 
-<img align='right' src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" width="200">
-</br>
+
 
 ### **About me** 👋
 
@@ -25,13 +24,15 @@
 
 </br>
 
-> Web development
 
-> UI / UX Design
+1. [x] Web Development
 
-> 3D Art and 2D Art
+1. [x] UI/UX Design 
 
-> Videomaker
+1. [x] 3D Art and 2D Art 
+
+1. [x] Videomaker 
+
 
 </br>
 
