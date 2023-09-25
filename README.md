@@ -232,7 +232,7 @@
 <img
   src="ln.png"
   width="18px">
-ﾠﾠ [Linkedin](https://www.linkedin.com/in/l%C3%BAcia-guelber-837a50185/)
+ﾠﾠ [Linkedin](https://www.linkedin.com/in/lucia-guelber/)
 
 <img
   src="insta.png"
